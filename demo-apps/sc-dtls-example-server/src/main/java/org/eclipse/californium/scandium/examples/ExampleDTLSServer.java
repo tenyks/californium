@@ -41,8 +41,7 @@ import org.slf4j.LoggerFactory;
 public class ExampleDTLSServer {
 
 	private static final int DEFAULT_PORT = 5684;
-	private static final Logger LOG = LoggerFactory
-			.getLogger(ExampleDTLSServer.class.getName());
+	private static final Logger LOG = LoggerFactory.getLogger(ExampleDTLSServer.class.getName());
 	private static final char[] KEY_STORE_PASSWORD = "endPass".toCharArray();
 	private static final String KEY_STORE_LOCATION = "certs/keyStore.jks";
 	private static final char[] TRUST_STORE_PASSWORD = "rootPass".toCharArray();

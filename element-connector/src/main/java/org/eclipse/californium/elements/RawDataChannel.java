@@ -26,6 +26,8 @@ package org.eclipse.californium.elements;
  * 
  * Applications should use the {@link Connector#send(RawData)} method to send
  * messages to receivers connected via the network.
+ *
+ * 备注：实现消息接收
  */
 public interface RawDataChannel {
 

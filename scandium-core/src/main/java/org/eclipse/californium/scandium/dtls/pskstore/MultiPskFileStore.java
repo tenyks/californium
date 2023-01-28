@@ -544,13 +544,13 @@ public class MultiPskFileStore implements AdvancedPskStore, Destroyable {
 	 * Lines in format:
 	 * 
 	 * <pre>
-	 * identity = secret - key(base64)
+	 * identity = secret-key(base64)
 	 * </pre>
 	 * 
 	 * or
 	 * 
 	 * <pre>
-	 * identity = ":0x" secret-key (hex)
+	 * identity = ":0x" secret-key(hex)
 	 * </pre>
 	 * 
 	 * The identity must not contain a {@code =}!

@@ -23,6 +23,9 @@ import org.eclipse.californium.core.coap.EmptyMessage;
 import org.eclipse.californium.core.coap.Request;
 import org.eclipse.californium.core.coap.Response;
 
+/**
+ * 备注：实现消息发送
+ */
 public interface Outbox {
 
 	/**

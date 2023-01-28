@@ -25,6 +25,7 @@ import org.eclipse.californium.core.server.MessageDeliverer;
 
 /**
  * CoapStack is what CoapEndpoint uses to send messages through distinct layers.
+ * 备注：对应了协议栈接口，用于处理CoapEndpoint上层的消息链路
  */
 public interface CoapStack {
 

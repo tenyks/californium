@@ -244,3 +244,8 @@ or create an issue here on GitHub.
 Please check out our [contribution guidelines](CONTRIBUTING.md)
 
 There are a couple of [enhancement issues](https://github.com/eclipse-californium/californium/issues?q=is%3Aissue+label%3Ahibernate), which have been closed for longer inactivity. Maybe, if you like to help and spend some time, you will be welcome.
+
+# Reference
+* [RFC 6690 Constrained RESTful Environments (CoRE) Link Format](https://www.rfc-editor.org/rfc/rfc6690)
+* [RFC 8974 Extended Tokens and Stateless Clients in the Constrained Application Protocol (CoAP)](https://www.rfc-editor.org/rfc/rfc8974)
+* [RFC 9176 Constrained RESTful Environments (CoRE) Resource  Directory](https://www.rfc-editor.org/rfc/rfc9176)
